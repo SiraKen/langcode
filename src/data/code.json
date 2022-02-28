@@ -1,0 +1,707 @@
+[
+  {
+    "code": "is",
+    "jp": "アイスランド語",
+    "en": "Icelandic"
+  },
+  {
+    "code": "ay",
+    "jp": "アイマラ語",
+    "en": "Aymara"
+  },
+  {
+    "code": "ga",
+    "jp": "アイルランド語",
+    "en": "Irish"
+  },
+  {
+    "code": "az",
+    "jp": "アゼルバイジェン語",
+    "en": "Azerbaijani"
+  },
+  {
+    "code": "as",
+    "jp": "アッサム語",
+    "en": "Assamese"
+  },
+  {
+    "code": "aa",
+    "jp": "アファル語",
+    "en": "Afar"
+  },
+  {
+    "code": "ab",
+    "jp": "アプハジア語",
+    "en": "Abkhazian"
+  },
+  {
+    "code": "af",
+    "jp": "アフリカーンス語",
+    "en": "Afrikaans"
+  },
+  {
+    "code": "am",
+    "jp": "アムハラ語",
+    "en": "Amharic"
+  },
+  {
+    "code": "ar",
+    "jp": "アラビア語",
+    "en": "Arabic"
+  },
+  {
+    "code": "sq",
+    "jp": "アルバニア語",
+    "en": "Albanian"
+  },
+  {
+    "code": "hy",
+    "jp": "アルメニア語",
+    "en": "Armenian"
+  },
+  {
+    "code": "it",
+    "jp": "イタリア語",
+    "en": "Italian"
+  },
+  {
+    "code": "yi",
+    "jp": "イディッシュ語",
+    "en": "Yiddish"
+  },
+  {
+    "code": "iu",
+    "jp": "イヌクティトット語",
+    "en": "Inuktitut"
+  },
+  {
+    "code": "ik",
+    "jp": "イヌピア語",
+    "en": "Inupiaq"
+  },
+  {
+    "code": "ia",
+    "jp": "インターリングア (国際語)",
+    "en": "Interlingua"
+  },
+  {
+    "code": "ie",
+    "jp": "インターリング語",
+    "en": "Interlingue; Occidental"
+  },
+  {
+    "code": "id",
+    "jp": "インドネシア語",
+    "en": "Indonesian"
+  },
+  {
+    "code": "ug",
+    "jp": "ウイグル語",
+    "en": "Uighur; Uyghur"
+  },
+  {
+    "code": "cy",
+    "jp": "ウェールズ語",
+    "en": "Welsh"
+  },
+  {
+    "code": "vo",
+    "jp": "ヴォラピュック語",
+    "en": "Volapük"
+  },
+  {
+    "code": "wo",
+    "jp": "ウォロフ語",
+    "en": "Wolof"
+  },
+  {
+    "code": "uk",
+    "jp": "ウクライナ語",
+    "en": "Ukrainian"
+  },
+  {
+    "code": "uz",
+    "jp": "ウズベク語",
+    "en": "Uzbek"
+  },
+  {
+    "code": "ur",
+    "jp": "ウルドゥー語",
+    "en": "Urdu"
+  },
+  {
+    "code": "en",
+    "jp": "英語",
+    "en": "English"
+  },
+  {
+    "code": "et",
+    "jp": "エストニア語",
+    "en": "Estonian"
+  },
+  {
+    "code": "eo",
+    "jp": "エスペラント語",
+    "en": "Esperanto"
+  },
+  {
+    "code": "or",
+    "jp": "オーリア語",
+    "en": "Oriya"
+  },
+  {
+    "code": "oc",
+    "jp": "オキタン語",
+    "en": "Occitan (post 1500)"
+  },
+  {
+    "code": "nl",
+    "jp": "オランダ語",
+    "en": "Dutch; Flemish"
+  },
+  {
+    "code": "om",
+    "jp": "オロモ語 (ガラ語)",
+    "en": "Oromo"
+  },
+  {
+    "code": "kk",
+    "jp": "カザフ語",
+    "en": "Kazakh"
+  },
+  {
+    "code": "ks",
+    "jp": "カシミール語",
+    "en": "Kashmiri"
+  },
+  {
+    "code": "ca",
+    "jp": "カタラン語",
+    "en": "Catalan; Valencian"
+  },
+  {
+    "code": "gl",
+    "jp": "ガリシア語",
+    "en": "Galician"
+  },
+  {
+    "code": "ko",
+    "jp": "韓国語",
+    "en": "Korean"
+  },
+  {
+    "code": "kn",
+    "jp": "カンナダ語",
+    "en": "Kannada"
+  },
+  {
+    "code": "km",
+    "jp": "カンボジア語",
+    "en": "Central Khmer"
+  },
+  {
+    "code": "rw",
+    "jp": "キヤーワンダ語 (ルアンダ語)",
+    "en": "Kinyarwanda"
+  },
+  {
+    "code": "el",
+    "jp": "ギリシャ語",
+    "en": "Greek, Modern (1453-)"
+  },
+  {
+    "code": "ky",
+    "jp": "キルギス語",
+    "en": "Kirghiz; Kyrgyz"
+  },
+  {
+    "code": "rn",
+    "jp": "キルンディ語 (ルンディ語)",
+    "en": "Rundi"
+  },
+  {
+    "code": "gn",
+    "jp": "グアラニー語",
+    "en": "Guarani"
+  },
+  {
+    "code": "qu",
+    "jp": "クエチュア語",
+    "en": "Quechua"
+  },
+  {
+    "code": "gu",
+    "jp": "グジャラト語",
+    "en": "Gujarati"
+  },
+  {
+    "code": "kl",
+    "jp": "グリーンランド語",
+    "en": "Kalaallisut; Greenlandic"
+  },
+  {
+    "code": "ku",
+    "jp": "クルド語",
+    "en": "Kurdish"
+  },
+  {
+    "code": "hr",
+    "jp": "クロアチア語",
+    "en": "Croatian"
+  },
+  {
+    "code": "gd",
+    "jp": "ゲーリック語 (スコットランド語)",
+    "en": "Gaelic; Scottish Gaelic"
+  },
+  {
+    "code": "gv",
+    "jp": "ゲーリック語 (マン島語)",
+    "en": "Manx"
+  },
+  {
+    "code": "xh",
+    "jp": "コーサ語",
+    "en": "Xhosa"
+  },
+  {
+    "code": "co",
+    "jp": "コルシカ語",
+    "en": "Corsican"
+  },
+  {
+    "code": "sm",
+    "jp": "サモア語",
+    "en": "Samoan"
+  },
+  {
+    "code": "sg",
+    "jp": "サングホ語",
+    "en": "Sango"
+  },
+  {
+    "code": "sa",
+    "jp": "サンスクリット語",
+    "en": "Sanskrit"
+  },
+  {
+    "code": "ss",
+    "jp": "シスワティ語",
+    "en": "Swati"
+  },
+  {
+    "code": "jv",
+    "jp": "ジャワ語",
+    "en": "Javanese"
+  },
+  {
+    "code": "ka",
+    "jp": "ジョージア語",
+    "en": "Georgian"
+  },
+  {
+    "code": "sn",
+    "jp": "ショナ語",
+    "en": "Shona"
+  },
+  {
+    "code": "sd",
+    "jp": "シンド語",
+    "en": "Sindhi"
+  },
+  {
+    "code": "si",
+    "jp": "シンハラ語",
+    "en": "Sinhala; Sinhalese"
+  },
+  {
+    "code": "sv",
+    "jp": "スウェーデン語",
+    "en": "Swedish"
+  },
+  {
+    "code": "su",
+    "jp": "スーダン語",
+    "en": "Sundanese"
+  },
+  {
+    "code": "zu",
+    "jp": "ズールー語",
+    "en": "Zulu"
+  },
+  {
+    "code": "es",
+    "jp": "スペイン語",
+    "en": "Spanish; Castilian"
+  },
+  {
+    "code": "sk",
+    "jp": "スロヴァキア語",
+    "en": "Slovak"
+  },
+  {
+    "code": "sl",
+    "jp": "スロヴェニア語",
+    "en": "Slovenian"
+  },
+  {
+    "code": "sw",
+    "jp": "スワヒリ語 (キスワヒリ語)",
+    "en": "Swahili"
+  },
+  {
+    "code": "tn",
+    "jp": "セツワナ語",
+    "en": "Tswana"
+  },
+  {
+    "code": "st",
+    "jp": "セト語",
+    "en": "Sotho, Southern"
+  },
+  {
+    "code": "sr",
+    "jp": "セルビア語",
+    "en": "Serbian"
+  },
+  {
+    "code": "sh",
+    "jp": "セルボクロアチア語",
+    "en": "Serbo Croatian"
+  },
+  {
+    "code": "so",
+    "jp": "ソマリ語",
+    "en": "Somali"
+  },
+  {
+    "code": "th",
+    "jp": "タイ語",
+    "en": "Thai"
+  },
+  {
+    "code": "tl",
+    "jp": "タガログ語",
+    "en": "Tagalog"
+  },
+  {
+    "code": "tg",
+    "jp": "タジク語",
+    "en": "Tajik"
+  },
+  {
+    "code": "tt",
+    "jp": "タタール語",
+    "en": "Tatar"
+  },
+  {
+    "code": "ta",
+    "jp": "タミル語",
+    "en": "Tamil"
+  },
+  {
+    "code": "cs",
+    "jp": "チェコ語",
+    "en": "Czech"
+  },
+  {
+    "code": "ti",
+    "jp": "チグリニャ語",
+    "en": "Tigrinya"
+  },
+  {
+    "code": "bo",
+    "jp": "チベット語",
+    "en": "Tibetan"
+  },
+  {
+    "code": "zh",
+    "jp": "中国語 (簡体)",
+    "en": "Chinese"
+  },
+  {
+    "code": "zh",
+    "jp": "中国語 (繁体)",
+    "en": "Chinese"
+  },
+  {
+    "code": "ts",
+    "jp": "ヅォンガ語",
+    "en": "Tsonga"
+  },
+  {
+    "code": "te",
+    "jp": "テルグ語",
+    "en": "Telugu"
+  },
+  {
+    "code": "da",
+    "jp": "デンマーク語",
+    "en": "Danish"
+  },
+  {
+    "code": "de",
+    "jp": "ドイツ語",
+    "en": "German"
+  },
+  {
+    "code": "tw",
+    "jp": "トウィ語",
+    "en": "Twi"
+  },
+  {
+    "code": "tk",
+    "jp": "トルクメン語",
+    "en": "Turkmen"
+  },
+  {
+    "code": "tr",
+    "jp": "トルコ語",
+    "en": "Turkish"
+  },
+  {
+    "code": "to",
+    "jp": "トンガ語",
+    "en": "Tonga (Tonga Islands)"
+  },
+  {
+    "code": "na",
+    "jp": "ナウル語",
+    "en": "Nauru"
+  },
+  {
+    "code": "ja",
+    "jp": "日本語",
+    "en": "Japanese"
+  },
+  {
+    "code": "ne",
+    "jp": "ネパール語",
+    "en": "Nepali"
+  },
+  {
+    "code": "no",
+    "jp": "ノルウェー語",
+    "en": "Norwegian"
+  },
+  {
+    "code": "ha",
+    "jp": "ハウサ語",
+    "en": "Hausa"
+  },
+  {
+    "code": "be",
+    "jp": "白ロシア語 (ベラルーシ語)",
+    "en": "Belarusian"
+  },
+  {
+    "code": "ba",
+    "jp": "バシキール語",
+    "en": "Bashkir"
+  },
+  {
+    "code": "ps",
+    "jp": "パシト語 (パシュトー語)",
+    "en": "Pushto; Pashto"
+  },
+  {
+    "code": "eu",
+    "jp": "バスク語",
+    "en": "Basque"
+  },
+  {
+    "code": "hu",
+    "jp": "ハンガリー語",
+    "en": "Hungarian"
+  },
+  {
+    "code": "pa",
+    "jp": "パンジャビ語",
+    "en": "Panjabi; Punjabi"
+  },
+  {
+    "code": "bi",
+    "jp": "ビスラマ語",
+    "en": "Bislama"
+  },
+  {
+    "code": "bh",
+    "jp": "ビハール語",
+    "en": "Bihari languages"
+  },
+  {
+    "code": "my",
+    "jp": "ビルマ語",
+    "en": "Burmese"
+  },
+  {
+    "code": "hi",
+    "jp": "ヒンディー語",
+    "en": "Hindi"
+  },
+  {
+    "code": "fj",
+    "jp": "フィジー語",
+    "en": "Fijian"
+  },
+  {
+    "code": "fi",
+    "jp": "フィンランド語",
+    "en": "Finnish"
+  },
+  {
+    "code": "dz",
+    "jp": "ブータン語",
+    "en": "Dzongkha"
+  },
+  {
+    "code": "fo",
+    "jp": "フェロー語",
+    "en": "Faroese"
+  },
+  {
+    "code": "fr",
+    "jp": "フランス語",
+    "en": "French"
+  },
+  {
+    "code": "fy",
+    "jp": "フリジア語",
+    "en": "Western Frisian"
+  },
+  {
+    "code": "bg",
+    "jp": "ブルガリア語",
+    "en": "Bulgarian"
+  },
+  {
+    "code": "br",
+    "jp": "ブルターニュ語",
+    "en": "Breton"
+  },
+  {
+    "code": "vi",
+    "jp": "ベトナム語",
+    "en": "Vietnamese"
+  },
+  {
+    "code": "he",
+    "jp": "ヘブライ語",
+    "en": "Hebrew"
+  },
+  {
+    "code": "fa",
+    "jp": "ペルシャ語",
+    "en": "Persian"
+  },
+  {
+    "code": "bn",
+    "jp": "ベンガル語",
+    "en": "Bengali"
+  },
+  {
+    "code": "pl",
+    "jp": "ポーランド語",
+    "en": "Polish"
+  },
+  {
+    "code": "pt",
+    "jp": "ポルトガル語",
+    "en": "Portuguese"
+  },
+  {
+    "code": "mi",
+    "jp": "マオリ語",
+    "en": "Maori"
+  },
+  {
+    "code": "mk",
+    "jp": "マカドニア語",
+    "en": "Macedonian"
+  },
+  {
+    "code": "mg",
+    "jp": "マダガスカル語",
+    "en": "Malagasy"
+  },
+  {
+    "code": "mr",
+    "jp": "マラッタ語",
+    "en": "Marathi"
+  },
+  {
+    "code": "ml",
+    "jp": "マラヤーラム語",
+    "en": "Malayalam"
+  },
+  {
+    "code": "mt",
+    "jp": "マルタ語",
+    "en": "Maltese"
+  },
+  {
+    "code": "ms",
+    "jp": "マレー語",
+    "en": "Malay"
+  },
+  {
+    "code": "mo",
+    "jp": "モルダビア語",
+    "en": "Moldovan"
+  },
+  {
+    "code": "mn",
+    "jp": "モンゴル語",
+    "en": "Mongolian"
+  },
+  {
+    "code": "yo",
+    "jp": "ヨルバ語",
+    "en": "Yoruba"
+  },
+  {
+    "code": "lo",
+    "jp": "ラオタ語",
+    "en": "Lao"
+  },
+  {
+    "code": "la",
+    "jp": "ラテン語",
+    "en": "Latin"
+  },
+  {
+    "code": "lv",
+    "jp": "ラトビア語 (レット語)",
+    "en": "Latvian"
+  },
+  {
+    "code": "lt",
+    "jp": "リトアニア語",
+    "en": "Lithuanian"
+  },
+  {
+    "code": "ln",
+    "jp": "リンガラ語",
+    "en": "Lingala"
+  },
+  {
+    "code": "li",
+    "jp": "リンブルク語",
+    "en": "Limburgan; Limburger; Limburgish"
+  },
+  {
+    "code": "ro",
+    "jp": "ルーマニア語",
+    "en": "Romanian; Moldavian; Moldovan"
+  },
+  {
+    "code": "rm",
+    "jp": "レートロマンス語",
+    "en": "Rhaeto-Romance"
+  },
+  {
+    "code": "ru",
+    "jp": "ロシア語",
+    "en": "Russian"
+  }
+]
