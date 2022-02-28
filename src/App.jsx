@@ -13,7 +13,6 @@ import { useState } from "react";
 import Helmet from "react-helmet";
 
 export default function App() {
-  const [input, setInput] = useState("英語");
   const [name, setName] = useState("英語");
   const [cd, setCd] = useState("en");
   function searchCode(val) {
@@ -44,7 +43,7 @@ export default function App() {
               <InputGroup.Text>{name}</InputGroup.Text>
               <FormControl
                 placeholder={"言語名を入力..."}
-                defaultValue={input}
+                defaultValue={"英語"}
                 onChange={(e) => searchCode(e.target.value)}
               />
             </InputGroup>
