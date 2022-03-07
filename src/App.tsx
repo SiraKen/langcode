@@ -1,4 +1,3 @@
-import "./App.css";
 import {
   Button,
   Container,
@@ -27,9 +26,9 @@ export default function App() {
   }
   return (
     <>
-      <Helmet>
+      {/* <Helmet>
         <title>言語コード検索</title>
-      </Helmet>
+      </Helmet> */}
       <Container className="my-5">
         <Row>
           <Col>
